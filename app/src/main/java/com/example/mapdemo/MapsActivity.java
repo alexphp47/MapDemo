@@ -44,7 +44,6 @@ public class MapsActivity extends FragmentActivity implements
     //Google ApiClient
     private GoogleApiClient googleApiClient;
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
